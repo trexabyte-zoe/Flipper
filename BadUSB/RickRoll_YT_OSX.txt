@@ -1,6 +1,6 @@
 REM Title: RickRoll
-REM Author: Jeffrey Koopman | JKCTech
-REM Description: Opens default browser and puts up RickRoll without ads
+REM Author: trexabyte
+REM Description: Opens default browser and opens Awesome Flipper
 REM Target: macOS 11.0+
 REM
 GUI SPACE
